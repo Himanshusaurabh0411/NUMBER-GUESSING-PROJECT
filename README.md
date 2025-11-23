@@ -88,5 +88,7 @@ Program shows total attempts before ending
 <br>
 ● Screenshots 
 <br>
-<img width="881" height="771" alt="image" src="https://github.com/user-attachments/assets/5522efa1-6ae7-494d-9273-4494a62908c9" />
-<img width="1125" height="834" alt="image" src="https://github.com/user-attachments/assets/17b1cfb8-5cbb-4a07-8566-8ab26c6f15c4" />
+<img width="495" height="613" alt="Screenshot 2025-11-24 at 02 25 37" src="https://github.com/user-attachments/assets/94d674eb-ea8b-4f8d-bfb8-3e903098da73" />
+<img width="791" height="641" alt="Screenshot 2025-11-24 at 02 25 21" src="https://github.com/user-attachments/assets/256f9d55-3c4a-41b7-8a17-348e3bfc45c1" />
+
+
